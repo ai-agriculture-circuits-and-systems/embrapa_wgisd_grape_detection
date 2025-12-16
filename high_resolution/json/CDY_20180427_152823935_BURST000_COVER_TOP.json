@@ -1,0 +1,181 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Chardonnay variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 421
+  },
+  "images": [
+    {
+      "id": 9806017395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CDY_20180427_152823935_BURST000_COVER_TOP.jpg",
+      "size": 1680476,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Chardonnay",
+      "berry_count": 421
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9948525395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        1378,
+        387,
+        126,
+        111
+      ],
+      "area": 13986,
+      "iscrowd": 0
+    },
+    {
+      "id": 7726908395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        1429,
+        457,
+        303,
+        166
+      ],
+      "area": 50298,
+      "iscrowd": 0
+    },
+    {
+      "id": 3533450395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        969,
+        5,
+        139,
+        145
+      ],
+      "area": 20155,
+      "iscrowd": 0
+    },
+    {
+      "id": 6036251395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        828,
+        214,
+        239,
+        191
+      ],
+      "area": 45649,
+      "iscrowd": 0
+    },
+    {
+      "id": 4305101395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        1140,
+        371,
+        142,
+        277
+      ],
+      "area": 39334,
+      "iscrowd": 0
+    },
+    {
+      "id": 7813199395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        1251,
+        493,
+        159,
+        100
+      ],
+      "area": 15900,
+      "iscrowd": 0
+    },
+    {
+      "id": 9102212395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        953,
+        453,
+        162,
+        246
+      ],
+      "area": 39852,
+      "iscrowd": 0
+    },
+    {
+      "id": 5403053395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        281,
+        337,
+        208,
+        158
+      ],
+      "area": 32864,
+      "iscrowd": 0
+    },
+    {
+      "id": 7708126395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        468,
+        379,
+        103,
+        65
+      ],
+      "area": 6695,
+      "iscrowd": 0
+    },
+    {
+      "id": 8068136395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        349,
+        435,
+        228,
+        216
+      ],
+      "area": 49248,
+      "iscrowd": 0
+    },
+    {
+      "id": 7905424395,
+      "image_id": 9806017395,
+      "category_id": 1,
+      "bbox": [
+        529,
+        485,
+        131,
+        205
+      ],
+      "area": 26855,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

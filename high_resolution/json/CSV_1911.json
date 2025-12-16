@@ -1,0 +1,207 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Cabernet Sauvignon variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 700
+  },
+  "images": [
+    {
+      "id": 4462687395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CSV_1911.jpg",
+      "size": 778574,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Cabernet Sauvignon",
+      "berry_count": 700
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8341883395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        1410,
+        174,
+        163,
+        246
+      ],
+      "area": 40098,
+      "iscrowd": 0
+    },
+    {
+      "id": 6878731395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        1589,
+        84,
+        207,
+        147
+      ],
+      "area": 30429,
+      "iscrowd": 0
+    },
+    {
+      "id": 4141567395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        104,
+        284,
+        170,
+        325
+      ],
+      "area": 55250,
+      "iscrowd": 0
+    },
+    {
+      "id": 8911970395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        440,
+        678,
+        94,
+        68
+      ],
+      "area": 6392,
+      "iscrowd": 0
+    },
+    {
+      "id": 9076502395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        713,
+        304,
+        123,
+        174
+      ],
+      "area": 21402,
+      "iscrowd": 0
+    },
+    {
+      "id": 2952459395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        758,
+        479,
+        95,
+        160
+      ],
+      "area": 15200,
+      "iscrowd": 0
+    },
+    {
+      "id": 9040217395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        260,
+        362,
+        168,
+        116
+      ],
+      "area": 19488,
+      "iscrowd": 0
+    },
+    {
+      "id": 4626597395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        1057,
+        538,
+        132,
+        162
+      ],
+      "area": 21384,
+      "iscrowd": 0
+    },
+    {
+      "id": 1038907395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        853,
+        479,
+        116,
+        237
+      ],
+      "area": 27492,
+      "iscrowd": 0
+    },
+    {
+      "id": 4039212395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        1568,
+        453,
+        239,
+        298
+      ],
+      "area": 71222,
+      "iscrowd": 0
+    },
+    {
+      "id": 3429376395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        440,
+        246,
+        138,
+        206
+      ],
+      "area": 28428,
+      "iscrowd": 0
+    },
+    {
+      "id": 4398964395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        587,
+        269,
+        127,
+        231
+      ],
+      "area": 29337,
+      "iscrowd": 0
+    },
+    {
+      "id": 4282896395,
+      "image_id": 4462687395,
+      "category_id": 1,
+      "bbox": [
+        1337,
+        496,
+        208,
+        206
+      ],
+      "area": 42848,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

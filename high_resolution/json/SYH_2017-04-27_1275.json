@@ -1,0 +1,142 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Syrah variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 384
+  },
+  "images": [
+    {
+      "id": 6732556395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "SYH_2017-04-27_1275.jpg",
+      "size": 628890,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Syrah",
+      "berry_count": 384
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9050728395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        1574,
+        403,
+        268,
+        425
+      ],
+      "area": 113900,
+      "iscrowd": 0
+    },
+    {
+      "id": 7725395395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        672,
+        588,
+        194,
+        322
+      ],
+      "area": 62468,
+      "iscrowd": 0
+    },
+    {
+      "id": 3501147395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        88,
+        518,
+        173,
+        343
+      ],
+      "area": 59339,
+      "iscrowd": 0
+    },
+    {
+      "id": 6549777395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        2,
+        554,
+        91,
+        268
+      ],
+      "area": 24388,
+      "iscrowd": 0
+    },
+    {
+      "id": 3900343395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        434,
+        472,
+        185,
+        235
+      ],
+      "area": 43475,
+      "iscrowd": 0
+    },
+    {
+      "id": 3463079395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        656,
+        448,
+        202,
+        118
+      ],
+      "area": 23836,
+      "iscrowd": 0
+    },
+    {
+      "id": 8381705395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        638,
+        335,
+        176,
+        132
+      ],
+      "area": 23232,
+      "iscrowd": 0
+    },
+    {
+      "id": 1112519395,
+      "image_id": 6732556395,
+      "category_id": 1,
+      "bbox": [
+        445,
+        200,
+        207,
+        292
+      ],
+      "area": 60444,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

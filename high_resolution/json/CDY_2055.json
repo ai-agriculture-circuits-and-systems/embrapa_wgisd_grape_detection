@@ -1,0 +1,233 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Chardonnay variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 598
+  },
+  "images": [
+    {
+      "id": 6341279395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CDY_2055.jpg",
+      "size": 792364,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Chardonnay",
+      "berry_count": 598
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9485824395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        561,
+        243,
+        312,
+        339
+      ],
+      "area": 105768,
+      "iscrowd": 0
+    },
+    {
+      "id": 7070558395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        928,
+        486,
+        153,
+        241
+      ],
+      "area": 36873,
+      "iscrowd": 0
+    },
+    {
+      "id": 3117183395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        817,
+        426,
+        229,
+        235
+      ],
+      "area": 53815,
+      "iscrowd": 0
+    },
+    {
+      "id": 2701783395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1245,
+        531,
+        274,
+        268
+      ],
+      "area": 73432,
+      "iscrowd": 0
+    },
+    {
+      "id": 7053402395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1692,
+        324,
+        130,
+        136
+      ],
+      "area": 17680,
+      "iscrowd": 0
+    },
+    {
+      "id": 5510650395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1865,
+        528,
+        50,
+        179
+      ],
+      "area": 8950,
+      "iscrowd": 0
+    },
+    {
+      "id": 7887721395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1517,
+        529,
+        252,
+        389
+      ],
+      "area": 98028,
+      "iscrowd": 0
+    },
+    {
+      "id": 9184312395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1425,
+        774,
+        95,
+        122
+      ],
+      "area": 11590,
+      "iscrowd": 0
+    },
+    {
+      "id": 4937906395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        0,
+        287,
+        142,
+        401
+      ],
+      "area": 56942,
+      "iscrowd": 0
+    },
+    {
+      "id": 7540164395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        374,
+        405,
+        159,
+        250
+      ],
+      "area": 39750,
+      "iscrowd": 0
+    },
+    {
+      "id": 5076352395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        170,
+        285,
+        259,
+        286
+      ],
+      "area": 74074,
+      "iscrowd": 0
+    },
+    {
+      "id": 9878586395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        218,
+        201,
+        171,
+        154
+      ],
+      "area": 26334,
+      "iscrowd": 0
+    },
+    {
+      "id": 8518601395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        402,
+        228,
+        124,
+        196
+      ],
+      "area": 24304,
+      "iscrowd": 0
+    },
+    {
+      "id": 6399441395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        1827,
+        456,
+        81,
+        164
+      ],
+      "area": 13284,
+      "iscrowd": 0
+    },
+    {
+      "id": 5818636395,
+      "image_id": 6341279395,
+      "category_id": 1,
+      "bbox": [
+        154,
+        484,
+        144,
+        197
+      ],
+      "area": 28368,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

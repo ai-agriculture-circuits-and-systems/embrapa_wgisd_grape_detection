@@ -1,0 +1,298 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Chardonnay variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 609
+  },
+  "images": [
+    {
+      "id": 3326885395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CDY_20180427_153126820_BURST001.jpg",
+      "size": 1611559,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Chardonnay",
+      "berry_count": 609
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2972414395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        60,
+        453,
+        159,
+        133
+      ],
+      "area": 21147,
+      "iscrowd": 0
+    },
+    {
+      "id": 4114765395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        7,
+        568,
+        118,
+        128
+      ],
+      "area": 15104,
+      "iscrowd": 0
+    },
+    {
+      "id": 8491077395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        158,
+        576,
+        195,
+        225
+      ],
+      "area": 43875,
+      "iscrowd": 0
+    },
+    {
+      "id": 7161384395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        379,
+        642,
+        146,
+        168
+      ],
+      "area": 24528,
+      "iscrowd": 0
+    },
+    {
+      "id": 3036312395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        391,
+        551,
+        190,
+        145
+      ],
+      "area": 27550,
+      "iscrowd": 0
+    },
+    {
+      "id": 3652178395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        477,
+        466,
+        126,
+        150
+      ],
+      "area": 18900,
+      "iscrowd": 0
+    },
+    {
+      "id": 3332754395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        667,
+        467,
+        111,
+        138
+      ],
+      "area": 15318,
+      "iscrowd": 0
+    },
+    {
+      "id": 4004590395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        777,
+        524,
+        90,
+        149
+      ],
+      "area": 13410,
+      "iscrowd": 0
+    },
+    {
+      "id": 6397908395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        687,
+        574,
+        123,
+        146
+      ],
+      "area": 17958,
+      "iscrowd": 0
+    },
+    {
+      "id": 8199489395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        748,
+        712,
+        110,
+        159
+      ],
+      "area": 17490,
+      "iscrowd": 0
+    },
+    {
+      "id": 1585294395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        708,
+        724,
+        49,
+        85
+      ],
+      "area": 4165,
+      "iscrowd": 0
+    },
+    {
+      "id": 4981896395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        948,
+        424,
+        110,
+        110
+      ],
+      "area": 12100,
+      "iscrowd": 0
+    },
+    {
+      "id": 7633093395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        880,
+        531,
+        182,
+        209
+      ],
+      "area": 38038,
+      "iscrowd": 0
+    },
+    {
+      "id": 7392123395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1027,
+        603,
+        83,
+        91
+      ],
+      "area": 7553,
+      "iscrowd": 0
+    },
+    {
+      "id": 8967405395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1319,
+        512,
+        142,
+        162
+      ],
+      "area": 23004,
+      "iscrowd": 0
+    },
+    {
+      "id": 3482474395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1450,
+        309,
+        182,
+        183
+      ],
+      "area": 33306,
+      "iscrowd": 0
+    },
+    {
+      "id": 7535703395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1565,
+        393,
+        149,
+        106
+      ],
+      "area": 15794,
+      "iscrowd": 0
+    },
+    {
+      "id": 8920180395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1729,
+        415,
+        163,
+        192
+      ],
+      "area": 31296,
+      "iscrowd": 0
+    },
+    {
+      "id": 2044545395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1844,
+        324,
+        75,
+        94
+      ],
+      "area": 7050,
+      "iscrowd": 0
+    },
+    {
+      "id": 3849866395,
+      "image_id": 3326885395,
+      "category_id": 1,
+      "bbox": [
+        1565,
+        464,
+        150,
+        158
+      ],
+      "area": 23700,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}
