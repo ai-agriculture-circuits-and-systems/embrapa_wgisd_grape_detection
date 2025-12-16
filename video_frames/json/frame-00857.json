@@ -1,0 +1,42 @@
+{
+  "info": {
+    "description": "Video demo frame annotation",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Video demo frames",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 0
+  },
+  "images": [
+    {
+      "id": 9658814898,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "frame-00857.jpg",
+      "size": 115570,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "source": "video_demo",
+      "berry_count": 0
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "grape",
+      "supercategory": "fruit"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Cabernet Sauvignon variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 235
+  },
+  "images": [
+    {
+      "id": 8032007395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CSV_1882.jpg",
+      "size": 798823,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Cabernet Sauvignon",
+      "berry_count": 235
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5489005395,
+      "image_id": 8032007395,
+      "category_id": 1,
+      "bbox": [
+        1350,
+        419,
+        292,
+        310
+      ],
+      "area": 90520,
+      "iscrowd": 0
+    },
+    {
+      "id": 1339524395,
+      "image_id": 8032007395,
+      "category_id": 1,
+      "bbox": [
+        1349,
+        344,
+        175,
+        166
+      ],
+      "area": 29050,
+      "iscrowd": 0
+    },
+    {
+      "id": 4222279395,
+      "image_id": 8032007395,
+      "category_id": 1,
+      "bbox": [
+        482,
+        496,
+        158,
+        281
+      ],
+      "area": 44398,
+      "iscrowd": 0
+    },
+    {
+      "id": 5192882395,
+      "image_id": 8032007395,
+      "category_id": 1,
+      "bbox": [
+        266,
+        350,
+        267,
+        501
+      ],
+      "area": 133767,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

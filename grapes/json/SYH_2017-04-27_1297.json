@@ -1,0 +1,181 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Syrah variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 459
+  },
+  "images": [
+    {
+      "id": 5412467395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "SYH_2017-04-27_1297.jpg",
+      "size": 705893,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Syrah",
+      "berry_count": 459
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9084405395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        235,
+        374,
+        154,
+        287
+      ],
+      "area": 44198,
+      "iscrowd": 0
+    },
+    {
+      "id": 2393878395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        162,
+        325,
+        145,
+        312
+      ],
+      "area": 45240,
+      "iscrowd": 0
+    },
+    {
+      "id": 3019392395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1,
+        588,
+        71,
+        98
+      ],
+      "area": 6958,
+      "iscrowd": 0
+    },
+    {
+      "id": 4859818395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        440,
+        397,
+        134,
+        308
+      ],
+      "area": 41272,
+      "iscrowd": 0
+    },
+    {
+      "id": 6970986395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        764,
+        401,
+        130,
+        341
+      ],
+      "area": 44330,
+      "iscrowd": 0
+    },
+    {
+      "id": 7937339395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        868,
+        835,
+        84,
+        111
+      ],
+      "area": 9324,
+      "iscrowd": 0
+    },
+    {
+      "id": 2938940395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1054,
+        744,
+        108,
+        86
+      ],
+      "area": 9288,
+      "iscrowd": 0
+    },
+    {
+      "id": 8214026395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1211,
+        387,
+        179,
+        193
+      ],
+      "area": 34547,
+      "iscrowd": 0
+    },
+    {
+      "id": 4856536395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1478,
+        348,
+        168,
+        328
+      ],
+      "area": 55104,
+      "iscrowd": 0
+    },
+    {
+      "id": 2939261395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1557,
+        892,
+        207,
+        187
+      ],
+      "area": 38709,
+      "iscrowd": 0
+    },
+    {
+      "id": 3187393395,
+      "image_id": 5412467395,
+      "category_id": 1,
+      "bbox": [
+        1684,
+        311,
+        234,
+        203
+      ],
+      "area": 47502,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

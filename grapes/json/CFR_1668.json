@@ -1,0 +1,155 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Cabernet Franc variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 437
+  },
+  "images": [
+    {
+      "id": 7916112395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CFR_1668.jpg",
+      "size": 940289,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Cabernet Franc",
+      "berry_count": 437
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4656357395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        1373,
+        765,
+        101,
+        104
+      ],
+      "area": 10504,
+      "iscrowd": 0
+    },
+    {
+      "id": 6877232395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        1159,
+        529,
+        157,
+        192
+      ],
+      "area": 30144,
+      "iscrowd": 0
+    },
+    {
+      "id": 7315136395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        1241,
+        475,
+        80,
+        53
+      ],
+      "area": 4240,
+      "iscrowd": 0
+    },
+    {
+      "id": 9526725395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        902,
+        570,
+        125,
+        249
+      ],
+      "area": 31125,
+      "iscrowd": 0
+    },
+    {
+      "id": 3735188395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        851,
+        465,
+        92,
+        84
+      ],
+      "area": 7728,
+      "iscrowd": 0
+    },
+    {
+      "id": 6495822395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        0,
+        612,
+        100,
+        183
+      ],
+      "area": 18300,
+      "iscrowd": 0
+    },
+    {
+      "id": 1149259395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        199,
+        668,
+        105,
+        120
+      ],
+      "area": 12600,
+      "iscrowd": 0
+    },
+    {
+      "id": 6247645395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        477,
+        504,
+        317,
+        305
+      ],
+      "area": 96685,
+      "iscrowd": 0
+    },
+    {
+      "id": 3469141395,
+      "image_id": 7916112395,
+      "category_id": 1,
+      "bbox": [
+        738,
+        479,
+        163,
+        181
+      ],
+      "area": 29503,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

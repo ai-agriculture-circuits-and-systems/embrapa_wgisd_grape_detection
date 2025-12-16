@@ -1,0 +1,116 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Cabernet Franc variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 342
+  },
+  "images": [
+    {
+      "id": 2442978395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CFR_1664.jpg",
+      "size": 934953,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Cabernet Franc",
+      "berry_count": 342
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4691555395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        1638,
+        521,
+        130,
+        242
+      ],
+      "area": 31460,
+      "iscrowd": 0
+    },
+    {
+      "id": 4858189395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        1516,
+        356,
+        157,
+        211
+      ],
+      "area": 33127,
+      "iscrowd": 0
+    },
+    {
+      "id": 1356268395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        1158,
+        600,
+        118,
+        189
+      ],
+      "area": 22302,
+      "iscrowd": 0
+    },
+    {
+      "id": 2540146395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        970,
+        407,
+        180,
+        307
+      ],
+      "area": 55260,
+      "iscrowd": 0
+    },
+    {
+      "id": 8891813395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        79,
+        786,
+        117,
+        116
+      ],
+      "area": 13572,
+      "iscrowd": 0
+    },
+    {
+      "id": 6294403395,
+      "image_id": 2442978395,
+      "category_id": 1,
+      "bbox": [
+        182,
+        655,
+        168,
+        209
+      ],
+      "area": 35112,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Chardonnay variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 99
+  },
+  "images": [
+    {
+      "id": 8300865395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CDY_20180427_153615626_BURST000_COVER_TOP.jpg",
+      "size": 1350747,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Chardonnay",
+      "berry_count": 99
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2206270395,
+      "image_id": 8300865395,
+      "category_id": 1,
+      "bbox": [
+        625,
+        681,
+        248,
+        221
+      ],
+      "area": 54808,
+      "iscrowd": 0
+    },
+    {
+      "id": 1526900395,
+      "image_id": 8300865395,
+      "category_id": 1,
+      "bbox": [
+        1395,
+        328,
+        288,
+        242
+      ],
+      "area": 69696,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}

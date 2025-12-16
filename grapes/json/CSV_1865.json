@@ -1,0 +1,142 @@
+{
+  "info": {
+    "description": "Grape detection annotation for Cabernet Sauvignon variety",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Embrapa WGISD Dataset",
+    "source": "Field captured grape images",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "berry_count": 673
+  },
+  "images": [
+    {
+      "id": 4847917395,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "CSV_1865.jpg",
+      "size": 918593,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "variety": "Cabernet Sauvignon",
+      "berry_count": 673
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5679882395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        985,
+        558,
+        249,
+        412
+      ],
+      "area": 102588,
+      "iscrowd": 0
+    },
+    {
+      "id": 8883760395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        1390,
+        71,
+        263,
+        336
+      ],
+      "area": 88368,
+      "iscrowd": 0
+    },
+    {
+      "id": 9353856395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        189,
+        207,
+        307,
+        347
+      ],
+      "area": 106529,
+      "iscrowd": 0
+    },
+    {
+      "id": 8277376395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        1360,
+        370,
+        369,
+        454
+      ],
+      "area": 167526,
+      "iscrowd": 0
+    },
+    {
+      "id": 3823781395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        1200,
+        420,
+        238,
+        369
+      ],
+      "area": 87822,
+      "iscrowd": 0
+    },
+    {
+      "id": 3177358395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        308,
+        487,
+        241,
+        357
+      ],
+      "area": 86037,
+      "iscrowd": 0
+    },
+    {
+      "id": 2197684395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        516,
+        623,
+        253,
+        265
+      ],
+      "area": 67045,
+      "iscrowd": 0
+    },
+    {
+      "id": 8642571395,
+      "image_id": 4847917395,
+      "category_id": 1,
+      "bbox": [
+        568,
+        428,
+        270,
+        199
+      ],
+      "area": 53730,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GRAPE_CLUSTER",
+      "supercategory": "GRAPE"
+    }
+  ]
+}
